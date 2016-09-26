@@ -4,4 +4,4 @@
 
 [工具下载地址](https://github.com/gavinkwoe/weapp-ide-crack)
 运行成功示例
-[](https://github.com/0532/smallApp/001.png)
+![](https://github.com/0532/smallApp/blob/master/001.png)
